@@ -12,7 +12,7 @@ public class App {
         LocalDateTime ldt = LocalDateTime.now();
         System.out.println(ldt);
         System.out.println("edit by bowser.");
-        Sysout.out.println("modify on github.");
+        System.out.println("modify on github.");
         System.out.println("add by idea.");
     }
 }
