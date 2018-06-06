@@ -14,5 +14,6 @@ public class App {
         System.out.println("edit by bowser.");
         System.out.println("modify on github.");
         System.out.println("add by idea.");
+        System.out.println("test some merge.");
     }
 }
